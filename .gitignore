@@ -1,0 +1,4 @@
+# add appropiate files to .gitignore
+.env
+/.idea
+/.venv
