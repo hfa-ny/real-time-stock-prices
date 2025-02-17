@@ -1,5 +1,9 @@
 # Real-time Stock Price Visualization with Streamlit
 
+[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://streamlit.io)
+[![Dockerized](https://img.shields.io/badge/Docker-ready-blue?logo=docker)](https://www.docker.com/)
+[![DevContainers](https://img.shields.io/badge/DevContainers-ready-brightgreen?logo=visualstudiocode)](https://code.visualstudio.com/docs/devcontainers/containers)
+
 This project demonstrates a simple real-time stock price visualization application built using Streamlit, yfinance, and Matplotlib. It allows users to enter a stock ticker symbol, select a time period and data interval, and see a live-updating chart of the stock's closing price.
 
 ## Features
